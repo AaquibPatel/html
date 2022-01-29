@@ -1,0 +1,13 @@
+.top bars{
+    width: 100%;
+    background-color: beige;
+}
+.items{
+    float: left;
+    padding: 15px 20px;
+    text-decoration:none;
+    letter-spacing: 4px;
+}
+.navbar{
+    float: right;
+}
